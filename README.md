@@ -18,6 +18,7 @@ Otros
 ✔ Excel
 
 📌 Tecnologias y Metodologias para aprender pronto
+
 CSS: ✔ Tailwind
 
 JavaScrip: ✔ Typescript
