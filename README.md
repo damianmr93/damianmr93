@@ -16,6 +16,7 @@ Otros
 
 ✔ Git
 ✔ Excel
+
 📌 Tecnologias y Metodologias para aprender pronto
 CSS: ✔ Tailwind
 
