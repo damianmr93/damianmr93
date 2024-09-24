@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**damianmr93/damianmr93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋
+Mi nombre es Damian Moreira y estoy buscando colaborar o ser parte de un proyecto que desarrolle soluciones basadas en software.
 
-Here are some ideas to get you started:
+En mi camino hacia ser desarrollador web, he aprendido:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻Tecnologías:
+DataBase ✔ ProstgreSQL ✔ Sequelize
+
+Backend ✔ node.js - npm ✔ Web Server ✔ Express.js
+
+Frontend ✔ HTML | CSS | Js ✔ React.js ✔ Redux
+
+Otros
+
+✔ Git
+✔ Excel
+📌 Tecnologias y Metodologias para aprender pronto
+CSS: ✔ Tailwind
+
+JavaScrip: ✔ Typescript
+
+🌱 Mi siguiente meta de estudio es:
+Software development.
+👨‍🎓 Platform courses:
+💛 HENRY - Full Stack Developer
+📫 LinkedIn: https://www.linkedin.com/in/damian-moreira-926094231/
